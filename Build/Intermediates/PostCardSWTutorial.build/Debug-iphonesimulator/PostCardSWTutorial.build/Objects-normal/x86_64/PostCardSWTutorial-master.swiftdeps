@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "eeec7272f6d4f4b2d38cda8417679011"
+inputs: 
+- "/Users/andremuchagata/Desktop/PostCardSWTutorial/PostCardSWTutorial/ViewController.swift"
+- "/Users/andremuchagata/Desktop/PostCardSWTutorial/PostCardSWTutorial/AppDelegate.swift"
